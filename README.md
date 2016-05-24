@@ -20,11 +20,11 @@ This is where we put our meaningless ideas:
 
 	a. Allow for advanced search with parameters like
 
-		i. 		Positivity
+		i. Positivity
 
-		ii.		BPM
+		ii. BPM
 
-		iii.	My butt
+		iii. My butt
 
 	b. Data visualization based off of historical data
 
