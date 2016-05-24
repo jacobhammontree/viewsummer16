@@ -31,6 +31,15 @@ This is where we put our meaningless ideas:
 		i. My butt
 
 
+# Cool VENMO
+
+# COOL VENMO
+
+# ITS MORE THAN JUST REGULAR VENMO
+
+# VENMO, BUT COOLER
+
+
 
 
 
