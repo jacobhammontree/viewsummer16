@@ -24,11 +24,11 @@ This is where we put our meaningless ideas:
 
 		ii. BPM
 
-		iii. My butt
+		iii. Tejas's ass
 
 	b. Data visualization based off of historical data
 
-		i. My butt
+		i. Tejas's ass
 
 
 # Cool VENMO
