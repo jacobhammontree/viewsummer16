@@ -15,8 +15,8 @@ This is where we put our meaningless ideas:
 
 # Big Ideas
 1. Spotify Advanced Search with Data Visualization
-
-fasdfs
+	a) adslfhasdf
+	b)asdlkfhadfklh
 
 
 
