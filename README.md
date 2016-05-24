@@ -18,9 +18,15 @@ This is where we put our meaningless ideas:
 # Big Ideas (Major Key)
 1. Spotify Advanced Search with Data Visualization
 
-	a) adslfhasdf
+	a) Allow for advanced search with parameters like
 
-	b) asdlkfhadfklh
+		i) 		Positivity
+
+		ii)		BPM
+
+		iii)	My butt
+
+	b) Data visualization based off of historical data
 
 
 
